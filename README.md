@@ -1,4 +1,4 @@
-## Hi there, my name is Thanh and my initial is TNT (now that's just dynamite 🧨🙃). I have a BA in Accounting/Finance concentration and MBSA in Business Analytics. I'm currently looking for a job in Data Analyst / Data Scientist. 
+## Hi there, my name is Thanh. I have a BA in Accounting/Finance concentration and MBSA in Business Analytics. I'm currently looking for a job in data analyst / data scientist. 
 
 ### - 📚 I’m currently learning:
 * 🌕🌑🌑 DataCamp - Data Scientist with Python
