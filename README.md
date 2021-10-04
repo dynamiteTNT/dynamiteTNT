@@ -8,7 +8,7 @@
 
 ### - 🎢 In my free time I love:
 * Cooking 👩‍🍳
-* Spending time with my dogs 🐶
+* Spending time with my wife 👸 and my fur babies 🐶
 * Road biking 🚲
 * Video games 🎮
 
