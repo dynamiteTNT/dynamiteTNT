@@ -16,7 +16,7 @@
 * How to apply ML in video games so I can finally finish the story
 * How to improve myself both personally and professionally as an effective data analyst
 
-### 📫 How to reach me:
+### - 📫 How to reach me:
 * LinkedIn https://www.linkedin.com/in/thanh831/
 
 ![picture alt](https://pbs.twimg.com/profile_banners/1438400291154497537/1633340193/1500x500)
