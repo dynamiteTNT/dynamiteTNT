@@ -1,20 +1,6 @@
-## Hi there, my name is Thanh. I have a BA in Accounting/Finance concentration and MBSA in Business Analytics. I'm currently looking for a job in data analyst / data scientist. 
+## Hi there, I'm Thanh. As a Business Analyst, I apply my MS in Business Analytics and my 4+ years of accounting and financial analysis experience to help organizations make data-informed decisions and optimize their performance. I have a strong background in data analysis, data visualization, and data modeling, using tools such as Microsoft Power Query, Excel, and Tableau.
 
-### - 📚 I’m currently learning:
-* 🌕🌑🌑 DataCamp - Data Scientist with Python
-* 🌕🌕🌑 Udemy - Advanced SQL: MySQL Data Analysis & Business Intelligence
-* 🌗🌑🌑 Improving efficiency in utilizing Tableau with datasets
-* 🌗🌑🌑 Coursera - IBM Data Science Professional Certificate
-
-### - 🎢 In my free time I love:
-* Cooking 👩‍🍳
-* Spending time with my wife 👸 and my fur babies 🐶
-* Road biking 🚲
-* Video games 🎮
-
-### - 💭 I'm currently thinking about:
-* How to apply ML in video games so I can finally finish the story
-* How to improve myself both personally and professionally as an effective data analyst
+I have worked with various clients across different industries, including agriculture, biotechnology, and digital media, to provide insights and solutions for their business challenges. Some of my achievements include improving the budgeting and forecasting process for DOLE Fresh Vegetables, automating the revenue recognition and reporting for Technical Safety Services, and enhancing the customer segmentation and retention strategy for Y Media Labs. I am passionate about finding patterns and trends in data, and translating them into actionable recommendations that drive value and growth.
 
 ### - 📫 How to reach me:
 * LinkedIn https://www.linkedin.com/in/thanh831/
